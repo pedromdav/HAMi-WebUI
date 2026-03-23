@@ -29,7 +29,7 @@ To set up the HAMi-WebUI Helm repository so that you download the correct HAMi-W
 1. To add the HAMi-WebUI repository, use the following command syntax:
 
    ```bash
-   helm repo add hami-webui https://project-hami.github.io/HAMi-WebUI
+   helm repo add hami-webui https://pedromdav.github.io/HAMi-WebUI
    ```
 
 2. Deploy HAMi-WebUI using following command:
